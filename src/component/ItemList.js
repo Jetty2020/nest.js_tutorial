@@ -1,6 +1,6 @@
 import { Grid } from "semantic-ui-react";
 import styles from "./ItemList.module.css";
-import Link from "next/link";
+import Link from "next/link"; //페이지 이동시 새로고침 되지않음
 
 export default function ItemList({ list }) {
   return (
