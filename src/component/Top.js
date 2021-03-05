@@ -12,7 +12,7 @@ export default function Top() {
             style={{ display: "block", width: 80 }}
           />
         </div>
-        <Header as="h1">Nest.js</Header>
+        <Header as="h1">Next.js</Header>
       </div>
       <Gnb />
     </div>

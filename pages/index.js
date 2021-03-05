@@ -9,7 +9,7 @@ export default function Home({ list }) {
   return (
     <div>
       <Head>
-        <title>HOME | 코딩앙마</title>
+        <title>HOME | Next.js</title>
         <meta name="description" content="코딩 앙마 홈입니다."></meta>
       </Head>
       <>
